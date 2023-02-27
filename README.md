@@ -46,4 +46,4 @@ Please go through my Code for your reference, please add your domain and client 
 
 In the project directory, you can run:
 
-**Note: Tried custom login for social was not possible to to if you find the solution please fork me Thanks**
+**Note: Tried custom login for social media was not possible to do if you find the solution please fork me Thanks**
